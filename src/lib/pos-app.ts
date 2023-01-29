@@ -1,5 +1,5 @@
 import { openDB, deleteDB, wrap, unwrap } from 'idb';
-import SampleData from '../assets/data/sample.json';
+import SampleData from '../../public/data/sample.json';
 
 async function loadDatabase() {
     const db = await openDB("tailwind_store", 1, {
