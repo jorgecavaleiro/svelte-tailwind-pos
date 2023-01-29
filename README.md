@@ -5,6 +5,8 @@
 Svelte Tailwind POS is a POS (Point of Sales) application built with Svelte and Tailwind.css, based on this reposiory: https://github.com/emsifa/tailwind-pos.
 I used the refered repository "Tailwind POS" (all credits to the creators), as base as exercise to learn 'Svelte' and 'Tailwind css'.
 
+Check it out here: https://jorgecavaleiro.github.io/sveltepos/ (first publish)
+
 ## Recommended IDE Setup
 
 [VS Code](https://code.visualstudio.com/) + [Svelte](https://marketplace.visualstudio.com/items?itemName=svelte.svelte-vscode).
