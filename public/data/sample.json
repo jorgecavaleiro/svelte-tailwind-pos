@@ -4,84 +4,84 @@
           "id": 1,
           "name": "Beef Burger",
           "price": 45000,
-          "image": "/data/img/beef-burger.png",
+          "image": "./data/img/beef-burger.png",
           "options": null
         },
         {
           "id": 2,
           "name": "Sandwich",
           "price": 32000,
-          "image": "/data/img/sandwich.png",
+          "image": "./data/img/sandwich.png",
           "options": null
         },
         {
           "id": 3,
           "name": "Sawarma",
           "price": 30000,
-          "image": "/data/img/sawarma.png",
+          "image": "./data/img/sawarma.png",
           "options": null
         },
         {
           "id": 4,
           "name": "Croissant",
           "price": 16000,
-          "image": "/data/img/croissant.png",
+          "image": "./data/img/croissant.png",
           "options": null
         },
         {
           "id": 5,
           "name": "Cinnamon Roll",
           "price": 20000,
-          "image": "/data/img/cinnamon-roll.png",
+          "image": "./data/img/cinnamon-roll.png",
           "options": null
         },
         {
           "id": 6,
           "name": "Choco Glaze Donut with Peanut",
           "price": 10000,
-          "image": "/data/img/choco-glaze-donut-peanut.png",
+          "image": "./data/img/choco-glaze-donut-peanut.png",
           "options": null
         },
         {
           "id": 7,
           "name": "Choco Glazed Donut",
           "price": 10000,
-          "image": "/data/img/choco-glaze-donut.png",
+          "image": "./data/img/choco-glaze-donut.png",
           "options": null
         },
         {
           "id": 8,
           "name": "Red Glazed Donut",
           "price": 10000,
-          "image": "/data/img/red-glaze-donut.png",
+          "image": "./data/img/red-glaze-donut.png",
           "options": null
         },
         {
           "id": 9,
           "name": "Iced Coffee Latte",
           "price": 25000,
-          "image": "/data/img/coffee-latte.png",
+          "image": "./data/img/coffee-latte.png",
           "options": null
         },
         {
           "id": 10,
           "name": "Iced Chocolate",
           "price": 20000,
-          "image": "/data/img/ice-chocolate.png",
+          "image": "./data/img/ice-chocolate.png",
           "options": null
         },
         {
           "id": 11,
           "name": "Iced Tea",
           "price": 15000,
-          "image": "/data/img/ice-tea.png",
+          "image": "./data/img/ice-tea.png",
           "options": null
         },
         {
           "id": 12,
           "name": "Iced Matcha Latte",
           "price": 22000,
-          "image": "/data/img/matcha-latte.png",
+          "image": "./data/img/matcha-latte.png",
           "options": null
         }
     ]
