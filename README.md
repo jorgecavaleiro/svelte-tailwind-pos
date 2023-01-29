@@ -3,7 +3,7 @@
 ![svelte/tailwind-pos-cover](./src/assets/svelte-tailwind-pos.png)
 
 Svelte Tailwind POS is a POS (Point of Sales) application built with Svelte and Tailwind.css, based on this reposiory: https://github.com/emsifa/tailwind-pos.
-I use the refered repository "Tailwind POS" (all credits to the creators), as base as exercise to learn 'Svelte' and 'Tailwind css'.
+I used the refered repository "Tailwind POS" (all credits to the creators), as base as exercise to learn 'Svelte' and 'Tailwind css'.
 
 ## Recommended IDE Setup
 
